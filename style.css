@@ -152,3 +152,7 @@ div > p {
   transition: all 0.2s ease-in-out;
   transform: scale(1.05);
 }
+.footer_social{
+  background: #2941ab;
+  color: #ffffff;
+}
